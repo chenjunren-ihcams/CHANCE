@@ -18,7 +18,7 @@ Not applicable.
 Not applicable.
 
 
-***3 INSTRUCTIONS***
+***3. INSTRUCTIONS***
 
 Before running, make sure "CHANCE.R" and "simulation-data-func.R" files are in "src/" folder.
 
